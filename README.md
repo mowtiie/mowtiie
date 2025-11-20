@@ -9,4 +9,10 @@ I enjoy doing **Android** development and **C#** as well.
 - ✉️  [Where to reach me? (**Email**)](mailto:vrixzandro.jm8b9@slmail.me)
 - ✌  [How to support me? (**Ko-fi**)](https://ko-fi.com/eipna)
 
+If you want to **verify my works** or to have **secure communication**, you can use my **PGP** public key:
+
+- **Key ID:** `388850B02EB23966`
+- **Fingerprint:** `0DEBEB693898A0BE20415481388850B02EB23966`
+- **Public Key:** [PGP_PUBLIC_KEY.asc](https://github.com/mowtiie/mowtiie/blob/master/PGP_PUBLIC_KEY.asc)
+
 Do not forget to view my open source projects below 👇🏻
