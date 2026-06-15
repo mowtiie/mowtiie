@@ -10,8 +10,7 @@ I enjoy doing **Android** development, Web development, and **C#** as well.
 
 If you want to **verify my works** or to have **secure communication**, you can use my **PGP** public key:
 
-- **Key ID:** `388850B02EB23966`
-- **Fingerprint:** `0DEBEB693898A0BE20415481388850B02EB23966`
+- **Fingerprint:** `9EA2 8F46 7802 5092 7643  1B69 42B5 FA42 AA63 90E1`
 - **Public Key:** [PGP_PUBLIC_KEY.asc](https://github.com/mowtiie/mowtiie/blob/master/PGP_PUBLIC_KEY.asc)
 
 Do not forget to view my open source projects below 👇🏻
