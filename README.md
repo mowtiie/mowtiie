@@ -5,7 +5,7 @@ I love **open source development** and I build things on my GitHub profile (here
 I enjoy doing **Android** development, Web development, and **C#** as well.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://www.youtube.com/shorts/SXHMnicI6Pg)
-- ✉️  [Where to reach me? (**Email**)](mailto:vrixzandro.jm8b9@slmail.me)
+- ✉️  [Where to reach me? (**Email**)](mailto:contact@mowtiie.cc)
 - ✌  [How to support me? (**Ko-fi**)](https://ko-fi.com/eipna)
 
 If you want to **verify my works** or to have **secure communication**, you can use my **PGP** public key:
