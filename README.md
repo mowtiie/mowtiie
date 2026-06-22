@@ -5,7 +5,6 @@ I love **open source development** and I build things on my GitHub profile (here
 I enjoy doing **Android** development, Web development, and **C#** as well.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/mowtiie?tab=repositories)
-- ✌  [Where to support me? (**Ko-fi**)](https://ko-fi.com/eipna)
 - ✉️  [Where to ping me? (**Email**)](mailto:contact@mowtiie.cc)
 - 💼  [Where to hire me? (**LinkedIn**)](https://linkedin.com/in/vrixzandro)
 
