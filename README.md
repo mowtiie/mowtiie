@@ -11,7 +11,7 @@ I enjoy doing **Android** development.
 
 If you want to **verify my works** or to have **secure communication**, you can use my **PGP** public key:
 
-- **Fingerprint:** `9EA2 8F46 7802 5092 7643  1B69 42B5 FA42 AA63 90E1`
+- **Fingerprint:** `9EA2 8F46 7802 5092 7643 1B69 42B5 FA42 AA63 90E1`
 - **Download it here:** [PGP_PUBLIC_KEY.asc](https://mowtiie.cc/PGP_PUBLIC_KEY.asc)
 
 Do not forget to view my open source projects below 👇🏻
