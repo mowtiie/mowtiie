@@ -2,7 +2,7 @@
 
 I'm a passionate **software developer** living in **Batangas, Philippines**, studying as a fourth-year Information Technology student at **STI College Balayan**.
 I love **open source development** and I build things on my GitHub profile (here).
-I enjoy doing **Android** development.
+I enjoy developing free and open-source software that caters to my needs and automates my life.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/mowtiie?tab=repositories)
 - 😉  [Where to know more about me? (**My Website**)](https://mowtiie.cc)
